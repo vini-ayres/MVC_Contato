@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_Contato
+namespace MVC_Contato
 {
     internal class Program
     {
